@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SMDAssignment4</string>
+    <string name="email">Enter your email</string>
+    <string name="password">Enter your password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="no_account_sign_up">Don\'t have an account?</string>
+    <string name="register">Signup</string>
+    <string name="enter_full_name">Enter your full name</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="already_have_account">Already have an account?</string>
+</resources>
